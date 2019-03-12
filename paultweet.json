@@ -1,0 +1,1212 @@
+[
+    {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -77.20194478, 
+                39.09417538
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Wed Mar 06 00:26:57 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                39.09417538, 
+                -77.20194478
+            ], 
+            "type": "Point"
+        }, 
+        "id": 1103089549675245568, 
+        "id_str": "1103089549675245568", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "nl", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.26774, 
+                            39.078493
+                        ], 
+                        [
+                            -77.1939989, 
+                            39.078493
+                        ], 
+                        [
+                            -77.1939989, 
+                            39.118378
+                        ], 
+                        [
+                            -77.26774, 
+                            39.118378
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "North Potomac, MD", 
+            "id": "4374fee986656d2f", 
+            "name": "North Potomac", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/4374fee986656d2f.json"
+        }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "ggdcvvc", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 04 19:54:26 +0000 2019", 
+            "default_profile": true, 
+            "default_profile_image": true, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 1, 
+            "follow_request_sent": false, 
+            "followers_count": 1, 
+            "following": false, 
+            "friends_count": 0, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1102658580514308096, 
+            "id_str": "1102658580514308096", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 0, 
+            "location": "", 
+            "name": "DG83378", 
+            "notifications": false, 
+            "profile_background_color": "F5F8FA", 
+            "profile_background_image_url": null, 
+            "profile_background_image_url_https": null, 
+            "profile_background_tile": false, 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "dg83378", 
+            "statuses_count": 30, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": null, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -77.2064916, 
+                39.10350059
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Tue Mar 05 22:09:21 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                39.10350059, 
+                -77.2064916
+            ], 
+            "type": "Point"
+        }, 
+        "id": 1103054918645174275, 
+        "id_str": "1103054918645174275", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "en", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.220557, 
+                            39.053158
+                        ], 
+                        [
+                            -77.105648, 
+                            39.053158
+                        ], 
+                        [
+                            -77.105648, 
+                            39.120952
+                        ], 
+                        [
+                            -77.220557, 
+                            39.120952
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "Rockville, MD", 
+            "id": "8c88f07c8666389d", 
+            "name": "Rockville", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/8c88f07c8666389d.json"
+        }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "key west ave", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 04 19:54:26 +0000 2019", 
+            "default_profile": true, 
+            "default_profile_image": true, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 1, 
+            "follow_request_sent": false, 
+            "followers_count": 1, 
+            "following": false, 
+            "friends_count": 0, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1102658580514308096, 
+            "id_str": "1102658580514308096", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 0, 
+            "location": "", 
+            "name": "DG83378", 
+            "notifications": false, 
+            "profile_background_color": "F5F8FA", 
+            "profile_background_image_url": null, 
+            "profile_background_image_url_https": null, 
+            "profile_background_tile": false, 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "dg83378", 
+            "statuses_count": 30, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": null, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -77.21233172, 
+                39.10885251
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Tue Mar 05 22:05:44 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                39.10885251, 
+                -77.21233172
+            ], 
+            "type": "Point"
+        }, 
+        "id": 1103054008757964802, 
+        "id_str": "1103054008757964802", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "en", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.252801, 
+                            39.102707
+                        ], 
+                        [
+                            -77.1630643, 
+                            39.102707
+                        ], 
+                        [
+                            -77.1630643, 
+                            39.169487
+                        ], 
+                        [
+                            -77.252801, 
+                            39.169487
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "Gaithersburg, MD", 
+            "id": "db1e795d2641873e", 
+            "name": "Gaithersburg", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/db1e795d2641873e.json"
+        }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "great seneca", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 04 19:54:26 +0000 2019", 
+            "default_profile": true, 
+            "default_profile_image": true, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 1, 
+            "follow_request_sent": false, 
+            "followers_count": 1, 
+            "following": false, 
+            "friends_count": 0, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1102658580514308096, 
+            "id_str": "1102658580514308096", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 0, 
+            "location": "", 
+            "name": "DG83378", 
+            "notifications": false, 
+            "profile_background_color": "F5F8FA", 
+            "profile_background_image_url": null, 
+            "profile_background_image_url_https": null, 
+            "profile_background_tile": false, 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "dg83378", 
+            "statuses_count": 30, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": null, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -77.16098196, 
+                39.13110911
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Tue Mar 05 21:58:15 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                39.13110911, 
+                -77.16098196
+            ], 
+            "type": "Point"
+        }, 
+        "id": 1103052128787091457, 
+        "id_str": "1103052128787091457", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "en", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.185672, 
+                            39.1183263
+                        ], 
+                        [
+                            -77.1216197, 
+                            39.1183263
+                        ], 
+                        [
+                            -77.1216197, 
+                            39.172422
+                        ], 
+                        [
+                            -77.185672, 
+                            39.172422
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "Redland, MD", 
+            "id": "7c38fd77def3b77e", 
+            "name": "Redland", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/7c38fd77def3b77e.json"
+        }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "370 turn", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 04 19:54:26 +0000 2019", 
+            "default_profile": true, 
+            "default_profile_image": true, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 1, 
+            "follow_request_sent": false, 
+            "followers_count": 1, 
+            "following": false, 
+            "friends_count": 0, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1102658580514308096, 
+            "id_str": "1102658580514308096", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 0, 
+            "location": "", 
+            "name": "DG83378", 
+            "notifications": false, 
+            "profile_background_color": "F5F8FA", 
+            "profile_background_image_url": null, 
+            "profile_background_image_url_https": null, 
+            "profile_background_tile": false, 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "dg83378", 
+            "statuses_count": 30, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": null, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -77.15410393, 
+                39.16956864
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Tue Mar 05 21:55:27 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                39.16956864, 
+                -77.15410393
+            ], 
+            "type": "Point"
+        }, 
+        "id": 1103051423951007746, 
+        "id_str": "1103051423951007746", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "en", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.185672, 
+                            39.1183263
+                        ], 
+                        [
+                            -77.1216197, 
+                            39.1183263
+                        ], 
+                        [
+                            -77.1216197, 
+                            39.172422
+                        ], 
+                        [
+                            -77.185672, 
+                            39.172422
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "Redland, MD", 
+            "id": "7c38fd77def3b77e", 
+            "name": "Redland", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/7c38fd77def3b77e.json"
+        }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "shady grove 1", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 04 19:54:26 +0000 2019", 
+            "default_profile": true, 
+            "default_profile_image": true, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 1, 
+            "follow_request_sent": false, 
+            "followers_count": 1, 
+            "following": false, 
+            "friends_count": 0, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1102658580514308096, 
+            "id_str": "1102658580514308096", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 0, 
+            "location": "", 
+            "name": "DG83378", 
+            "notifications": false, 
+            "profile_background_color": "F5F8FA", 
+            "profile_background_image_url": null, 
+            "profile_background_image_url_https": null, 
+            "profile_background_tile": false, 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "dg83378", 
+            "statuses_count": 30, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": null, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -77.15405985, 
+                39.16963885
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Tue Mar 05 21:51:03 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                39.16963885, 
+                -77.15405985
+            ], 
+            "type": "Point"
+        }, 
+        "id": 1103050316549885958, 
+        "id_str": "1103050316549885958", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "en", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.185672, 
+                            39.1183263
+                        ], 
+                        [
+                            -77.1216197, 
+                            39.1183263
+                        ], 
+                        [
+                            -77.1216197, 
+                            39.172422
+                        ], 
+                        [
+                            -77.185672, 
+                            39.172422
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "Redland, MD", 
+            "id": "7c38fd77def3b77e", 
+            "name": "Redland", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/7c38fd77def3b77e.json"
+        }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "airpark light", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 04 19:54:26 +0000 2019", 
+            "default_profile": true, 
+            "default_profile_image": true, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 1, 
+            "follow_request_sent": false, 
+            "followers_count": 1, 
+            "following": false, 
+            "friends_count": 0, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1102658580514308096, 
+            "id_str": "1102658580514308096", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 0, 
+            "location": "", 
+            "name": "DG83378", 
+            "notifications": false, 
+            "profile_background_color": "F5F8FA", 
+            "profile_background_image_url": null, 
+            "profile_background_image_url_https": null, 
+            "profile_background_tile": false, 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "dg83378", 
+            "statuses_count": 30, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": null, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -77.15291208, 
+                39.19515416
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Tue Mar 05 21:46:46 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                39.19515416, 
+                -77.15291208
+            ], 
+            "type": "Point"
+        }, 
+        "id": 1103049236281724930, 
+        "id_str": "1103049236281724930", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "en", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.231293, 
+                            39.152407
+                        ], 
+                        [
+                            -77.112229, 
+                            39.152407
+                        ], 
+                        [
+                            -77.112229, 
+                            39.235691
+                        ], 
+                        [
+                            -77.231293, 
+                            39.235691
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "Montgomery Village, MD", 
+            "id": "017a75c0406737c7", 
+            "name": "Montgomery Village", 
+            "place_type": "city", 
+            "url": "https://api.twitter.com/1.1/geo/id/017a75c0406737c7.json"
+        }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "traffic loght again", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 04 19:54:26 +0000 2019", 
+            "default_profile": true, 
+            "default_profile_image": true, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 1, 
+            "follow_request_sent": false, 
+            "followers_count": 1, 
+            "following": false, 
+            "friends_count": 0, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1102658580514308096, 
+            "id_str": "1102658580514308096", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 0, 
+            "location": "", 
+            "name": "DG83378", 
+            "notifications": false, 
+            "profile_background_color": "F5F8FA", 
+            "profile_background_image_url": null, 
+            "profile_background_image_url_https": null, 
+            "profile_background_tile": false, 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "dg83378", 
+            "statuses_count": 30, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": null, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -77.08670061, 
+                39.32602098
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Tue Mar 05 03:07:59 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                39.32602098, 
+                -77.08670061
+            ], 
+            "type": "Point"
+        }, 
+        "id": 1102767687804092416, 
+        "id_str": "1102767687804092416", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "es", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -79.487651, 
+                            37.886607
+                        ], 
+                        [
+                            -74.986286, 
+                            37.886607
+                        ], 
+                        [
+                            -74.986286, 
+                            39.723622
+                        ], 
+                        [
+                            -79.487651, 
+                            39.723622
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "Maryland, USA", 
+            "id": "dea1eac2d7ef8878", 
+            "name": "Maryland", 
+            "place_type": "admin", 
+            "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json"
+        }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "lisbon md", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 04 19:54:26 +0000 2019", 
+            "default_profile": true, 
+            "default_profile_image": true, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 1, 
+            "follow_request_sent": false, 
+            "followers_count": 1, 
+            "following": false, 
+            "friends_count": 0, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1102658580514308096, 
+            "id_str": "1102658580514308096", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 0, 
+            "location": "", 
+            "name": "DG83378", 
+            "notifications": false, 
+            "profile_background_color": "F5F8FA", 
+            "profile_background_image_url": null, 
+            "profile_background_image_url_https": null, 
+            "profile_background_tile": false, 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "dg83378", 
+            "statuses_count": 30, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": null, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -77.14503199, 
+                39.27829049
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Tue Mar 05 03:01:39 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                39.27829049, 
+                -77.14503199
+            ], 
+            "type": "Point"
+        }, 
+        "id": 1102766090806050823, 
+        "id_str": "1102766090806050823", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "und", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -79.487651, 
+                            37.886607
+                        ], 
+                        [
+                            -74.986286, 
+                            37.886607
+                        ], 
+                        [
+                            -74.986286, 
+                            39.723622
+                        ], 
+                        [
+                            -79.487651, 
+                            39.723622
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "Maryland, USA", 
+            "id": "dea1eac2d7ef8878", 
+            "name": "Maryland", 
+            "place_type": "admin", 
+            "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json"
+        }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Md 94", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 04 19:54:26 +0000 2019", 
+            "default_profile": true, 
+            "default_profile_image": true, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 1, 
+            "follow_request_sent": false, 
+            "followers_count": 1, 
+            "following": false, 
+            "friends_count": 0, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1102658580514308096, 
+            "id_str": "1102658580514308096", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 0, 
+            "location": "", 
+            "name": "DG83378", 
+            "notifications": false, 
+            "profile_background_color": "F5F8FA", 
+            "profile_background_image_url": null, 
+            "profile_background_image_url_https": null, 
+            "profile_background_tile": false, 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "dg83378", 
+            "statuses_count": 30, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": null, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -77.14340678, 
+                39.24301777
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Tue Mar 05 02:58:04 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                39.24301777, 
+                -77.14340678
+            ], 
+            "type": "Point"
+        }, 
+        "id": 1102765190330892288, 
+        "id_str": "1102765190330892288", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "fr", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -79.487651, 
+                            37.886607
+                        ], 
+                        [
+                            -74.986286, 
+                            37.886607
+                        ], 
+                        [
+                            -74.986286, 
+                            39.723622
+                        ], 
+                        [
+                            -79.487651, 
+                            39.723622
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "Maryland, USA", 
+            "id": "dea1eac2d7ef8878", 
+            "name": "Maryland", 
+            "place_type": "admin", 
+            "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json"
+        }, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "Etchison", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Mon Mar 04 19:54:26 +0000 2019", 
+            "default_profile": true, 
+            "default_profile_image": true, 
+            "description": "", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "favourites_count": 1, 
+            "follow_request_sent": false, 
+            "followers_count": 1, 
+            "following": false, 
+            "friends_count": 0, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1102658580514308096, 
+            "id_str": "1102658580514308096", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": "en", 
+            "listed_count": 0, 
+            "location": "", 
+            "name": "DG83378", 
+            "notifications": false, 
+            "profile_background_color": "F5F8FA", 
+            "profile_background_image_url": null, 
+            "profile_background_image_url_https": null, 
+            "profile_background_tile": false, 
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+            "profile_link_color": "1DA1F2", 
+            "profile_sidebar_border_color": "C0DEED", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "dg83378", 
+            "statuses_count": 30, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": null, 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }
+]
