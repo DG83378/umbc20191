@@ -1,0 +1,115 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2064916, 
+                    39.10350059
+                ], 
+                "type": "Point"
+            }, 
+            "properties": "DG83378", 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.21233172, 
+                    39.10885251
+                ], 
+                "type": "Point"
+            }, 
+            "properties": "DG83378", 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.16098196, 
+                    39.13110911
+                ], 
+                "type": "Point"
+            }, 
+            "properties": "DG83378", 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.15410393, 
+                    39.16956864
+                ], 
+                "type": "Point"
+            }, 
+            "properties": "DG83378", 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.15405985, 
+                    39.16963885
+                ], 
+                "type": "Point"
+            }, 
+            "properties": "DG83378", 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.15291208, 
+                    39.19515416
+                ], 
+                "type": "Point"
+            }, 
+            "properties": "DG83378", 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.08670061, 
+                    39.32602098
+                ], 
+                "type": "Point"
+            }, 
+            "properties": "DG83378", 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.14503199, 
+                    39.27829049
+                ], 
+                "type": "Point"
+            }, 
+            "properties": "DG83378", 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.14340678, 
+                    39.24301777
+                ], 
+                "type": "Point"
+            }, 
+            "properties": "DG83378", 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.14675156, 
+                    39.19695446
+                ], 
+                "type": "Point"
+            }, 
+            "properties": "DG83378", 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
